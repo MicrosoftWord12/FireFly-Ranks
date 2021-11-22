@@ -1,0 +1,6 @@
+name: FireFly-Ranks
+version: '${project.version}'
+main: com.MicrosoftWord12.FireFlyRanks
+api-version: 1.17
+authors: [ MicrosoftWord12 ]
+description: Ranking System for minecraft
